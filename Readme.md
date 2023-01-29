@@ -1,12 +1,12 @@
 <h1 align='center'>Redimensionamendo de imagens</h1>
 
-<p>Projeto cujo intuito era o desenvolvimento de um app ao qual é responsável por redimensionar imagens</p>
+<p>Projeto cujo intuito era o desenvolvimento de um app ao qual é responsável por redimensionar imagens.</p>
 
 <br>
 
 <h2 align='center'> Imagem do Projeto </h2>
 
-![logo C](./images/image_project.png)
+![project image](./images/image_project.png)
 
 >projeto finalizado
 
