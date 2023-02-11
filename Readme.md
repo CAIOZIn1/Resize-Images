@@ -6,7 +6,7 @@
 
 <h2 align='center'> Imagem do Projeto </h2>
 
-![project image](./images/image_project.png)
+![project image](./image/image_project.png)
 
 >projeto finalizado
 
